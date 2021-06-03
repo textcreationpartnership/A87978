@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the King of  Denmark to Mr. William Lilly: occasioned by the death of his patron the King of Sweden.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87978</idno><idno type="EEBO-CITATION">99867080</idno>
+  <idno type="VID">119370</idno>
+  <idno type="EEBO-PROQUEST">2240930033</idno>
+  
+            <idno type="STC">Wing L1524</idno>
+            <idno type="STC">Thomason E1017_33</idno>
+            <idno type="STC">ESTC R208084</idno>
+            <idno type="PROQUEST">99867080</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867080e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87978)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119370)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the King of  Denmark to Mr. William Lilly: occasioned by the death of his patron the King of Sweden.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Gustavus Montelion,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire. Not in fact by Frederick III, King of Denmark and Norway.</note>
+                  <note>Annotation on Thomason copy: "Marsh. 22. 1659"; the last two numbers in the imprint have beed crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Lilly, William, 1602-1681 --  Early works to 1800.</term>
+               <term type="topical_term">Astrology --  Humor --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119370:1"/>
+            <p>A LETTER FROM THE King of Denmark TO Mr. <hi>WILLIAM LILLY:</hi> Occasioned by the DEATH of his PATRON THE King of Sweden.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Gustavus Montelion.</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:119370:2"/>
+            <pb n="3" facs="tcp:119370:2"/>
+            <head>A LETTER From the KING of DENMARK, TO <hi>WIL. LILLY.</hi>
+            </head>
+            <head type="sub">Most Inauspicious, most Obstreperous, most Sonoriferous, most Spherical, most Antarctical, most Phaetontaical, and Super luminary Professor of Injudici<g ref="char:EOLhyphen"/>ous Astrology,</head>
+            <p>THy Apothegms were so positive, and thy Alm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nacks claim'd such a familiarity with the Skies, that We thought it had been thy custom to fir astride upon the North Pole, commanding the stars, even as a Paedagogue aweth his Boys; and awing the seven Plane<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, even as one should say, <hi>Ye Rogues, do ye not minde what I speak to ye?</hi> We had to ought that the twinkling of the Stars had been onely their trem<g ref="char:EOLhyphen"/>bling
+<pb n="4" facs="tcp:119370:3"/>at thy Power; and that <hi>Mars</hi>'s checks look'd red onely with the Cuffs which thou gavest him for his Disobedience.—Happiest of happiest men art thou, thought We, O King of <hi>Sweden,</hi> who hast ty'd <hi>William Lilly</hi> with a Gold Chain to thy Interest, which is now by his, yea by his onely means, so great in hea<g ref="char:EOLhyphen"/>ven, that the very Stars fight for thee! How misera<g ref="char:EOLhyphen"/>be thought I, are We, that are thus threatned by the Celestial Influences! <hi>Saturn</hi> and thou, God wot, were going to devour our poor Kingdom, even as that god was wont to chop up his own children, and we thought 'twas in vain to resist the will of Heaven for we could not imagine that such a small Kingdom as ours would be ever able to bear up under the heavy and disastrous Pressures of <hi>Horoscopical, Ascendant, Quartile, Sex<g ref="char:EOLhyphen"/>tile, Retrograde, Almuten,</hi> and <hi>Combust</hi> Thou didst amaze us, and although we were not ignorant of the dismal and exemplary Fates of <hi>Immanuel</hi> of <hi>Portugal, Symon</hi> the <hi>Bulgarian,</hi> and <hi>Lodowick Sforza</hi> Duke of <hi>Millain,</hi> which happened so contrary to the flatte<g ref="char:EOLhyphen"/>ries of their Windmill-pated Star-gazers, who pro<g ref="char:EOLhyphen"/>mised them such Mountains of Happiness; yet for all this we had almost forfeited our reason in the belief of what thou didst promise to thy Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ron of <hi>Sweden,</hi> for that thou didst affirm his Successes with such a brazen peremptoriness, that we poor ignorant <hi>Mortals</hi> could not chuse but say to our selves, Sure this man is wiser than <hi>Thales Milesius,</hi> and knowes more then all the world besides, else he could never be so confident. Thou didst talk as if <hi>Mercury</hi> had been thy Foot-post, and that thou hadst kept a Weekly Correspondence with the <hi>Coelum Empyreuna,</hi> or that the soul of <hi>Aben<g ref="char:EOLhyphen"/>ragel</hi>
+               <pb n="5" facs="tcp:119370:3"/>had layen Leiger in the <hi>Cusp of Aries,</hi> to give thee Intelligence; thus thou didst for a good while confound and amuze, our Intellectuals: But Time, which thou hast been so long fooling with thy Prophe<g ref="char:EOLhyphen"/>cies, hath at length brought thee to light. And now good Mr. <hi>Lilly, Sweet William,</hi> what are become of all your <hi>Alchodens, Triplicities, Benesicials</hi> and <hi>Maleficials,</hi> and your <hi>Genethliack Gimcracks,</hi> with more artificial Scrauls in 'um, than a Girle makes when she first learns to frame her Letters: Did you not erect a certain stately Structure of twelve Houses, and furnish them all at your own charges, with the Triumphs of your Patron? Come, come, do not deny it, 'tis very true, and you did therefore receive a Golden Sawcidge too to hang about your Illustrious shoulders. Pray what are become of all those gaudy Triumphs? Alas, they are all marcht off, with such a remarkable <hi>Sic transit,</hi> that never humane frailty so bejaded poor Prince be<g ref="char:EOLhyphen"/>fore; And for thy part, methinks we now see thee with thy Dragons tayl clapt between thy legs, look<g ref="char:EOLhyphen"/>ing like a Dog that hath stollen a Pudding, to see thy old friends the Stars leave thee thus thus in the sudds. You bid your Patron conquer, but alas! he was beaten. You bid him take <hi>Copenhaguen,</hi> but the Royal Knave was sullen, and would not. You bid him live, but he, as if it had been to spite his Astrologer, doth the quite contrary, and dyes. Thus your brother Chald<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ans told <hi>Pompey, Caesar,</hi> and <hi>Crassus,</hi> how that they should not dye but in their full old age, and at home, and in peace, and untoucht in their honor; yet all men know their ends were quite otherwise, violent, immature, and tragical.</p>
+            <pb n="6" facs="tcp:119370:4"/>
+            <p>Therefore, O thou Worshipper of the Heathen gods, leave thy <hi>Canting,</hi> and thy <hi>Vaunting,</hi> and thy <hi>Flaunting;</hi> give over thy <hi>Predictions,</hi> and thy <hi>Bene<g ref="char:EOLhyphen"/>dictions,</hi> thy <hi>Maledictions,</hi> and thy <hi>Fictions,</hi> that are neither <hi>Significal,</hi> nor <hi>Hieroglyphical,</hi> nor real, nor es<g ref="char:EOLhyphen"/>sential, but most Nonsensical and Excentrical from all truth that ever was, is, and shall be in this world and in the world to come. You may think to be col<g ref="char:EOLhyphen"/>loguing with us, and to that purpose be telling strange stories of our future happiness and good fortune; but good King of the <hi>Gypsies</hi> trouble not thy self, thou wilt lose thy labour we assure thee; thou getst no Gold Chains here, we defie thee and all thy Laplanders: Nor shall we keep a Servant that consults thee so much as upon the loss of a Silver Spoon. We are resolved to follow honest <hi>Horace</hi>'s advice to <hi>Leuconor,</hi> and to take things as they come; being fully satisfied in all thy <hi>Chaldaean</hi> Impostures. However, to shew thee that we have something of good wishes left for thee, as thou professest thy self to be a Christian, we advise thee to remember the stories of <hi>Diophantus</hi> and <hi>Gauricus,</hi> who brought themselves to their unforeseen ends, while they prophecy'd the Misfortunes of other men, and became sufferers of that which their own Divina<g ref="char:EOLhyphen"/>tion never had the good fortune to foreknow. This <hi>Gauricus</hi> was a Sycophant, and a great Medler with State affairs, but his end was sad: Thou art the same, therefore beware by other mens harms. Truly, we are afraid thou art a man very much lost in this world, and therefore that thou maist not be long in the hear<g ref="char:EOLhyphen"/>ing of thy merited Reproaches, do as thy Brother <hi>Cardanus</hi> did; prophecy thou shalt die by such a time,
+<pb n="7" facs="tcp:119370:4"/>but let it be very sudden; and if then thou dost not finde such an inclination to death as thou ought'st to have, starve thy self to verifie the Prediction. I know no other way for thee to regain thy own, and the lost Credit of thy scandalous Science. We could now bid you God b'w'ye, in the phrase of an Almanack, and say, <hi>Farewell Frost;</hi> but we are loth to offend thee too much: for we know thou dost not care to hear of <hi>his</hi> Memory. Therefore God rest his bones, for they had little rest when he taught thy friend religion. And if thou wilt take our advice, let God rest thy bones too, for thou hast taken a great deal of pains; thy Name's up, and thou maist even now go to bed and sleep. But if ever thou appearest again, and wri<g ref="char:EOLhyphen"/>test any thing beyond Prescriptions for letting of blood, and sowing of Pot-herbs, Cursed be thou, and Cursed be all they that reade them. Which is the ear<g ref="char:EOLhyphen"/>nest desire of him that never had any reason to be either</p>
+            <closer>
+               <signed>Your Friend or Servant,</signed>
+               <dateline>
+                  <hi>Elsenore,</hi>
+                  <date>March 4.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
